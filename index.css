@@ -1,0 +1,62 @@
+
+
+body{
+    background: url(bgi.jpg);
+    color: white;
+}
+
+h2{
+    border: 2px solid blueviolet;
+    border-radius: 0.4rem;
+     background: black;
+     margin: 0 28rem 0 28rem;
+     padding: 0.2rem;
+
+}
+#favImg{
+    border: 2px solid blue;
+    padding: 0.2rem;
+    background: white;
+
+}
+
+.grid{
+    text-align: center;
+   
+}
+.footer{
+    text-align: center;
+    margin-top: 3;
+}
+footer{
+        margin: 10rem 0 0 0 ;
+        background: black;
+        text-align: center;
+        padding: 0.2rem;
+}
+.btn{
+    border: 1px solid blueviolet;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background: white;
+    color: black;
+    row-gap: 1rem ;
+    margin-bottom: 1rem;
+    
+
+}
+ 
+h5{
+     background: purple;
+     color: white;
+     padding: 0.2rem;
+     margin: 1rem 30rem 2rem 30rem;
+     border-radius: 1rem;
+     
+}
+.btn-prim{
+    background: skyblue;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    color: white;
+    
+}
